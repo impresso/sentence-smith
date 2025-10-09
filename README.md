@@ -23,10 +23,12 @@ The file `test_process.ipynb` shows examples for how to evaluate embedding model
 
 If you like the project, consider citing:
 
+```
 @article{li2025sentence,
   title={Sentence Smith: Controllable Edits for Evaluating Text Embedding Models},
   author={Li, Hongji and Michail, Andrianos and Gubelmann, Reto and Clematide, Simon and Opitz, Juri},
   journal={EMNLP (to appear)},
   year={2025}
 }
+```
 
