@@ -54,7 +54,7 @@ Results saved to output_sentences_all.csv
 Intermediate results saved to intermediate_results_all/
 ```
 
-## 📝 Output Format
+## Output Format
 
 Each line in the output CSV follows the structure:
 
