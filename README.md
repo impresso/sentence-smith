@@ -14,12 +14,32 @@ This repository accompanies our [EMNLP2025 paper](https://arxiv.org/abs/2502.147
 ## Table of Contents
 
 - [Overview](#overview)
+- [Installation](#installation)
 - [Repository Structure](#repository-structure)
 - [Citation](#citation)
 - [About Impresso](#about-impresso)
 - [License](#license)
 
 ---
+
+## Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Additionally, download the Spacy English model:
+
+```bash
+python -m spacy download en_core_web_sm
+```
+
+For AMR models, follow the [amrlib documentation](https://amrlib.readthedocs.io/) to download required models.
+
+---
+
 ## Repository Structure
 
 The repository is organized as follows:

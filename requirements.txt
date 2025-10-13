@@ -1,0 +1,17 @@
+# AMR parsing and generation
+amrlib>=0.8.0
+penman>=1.2.0
+spacy>=3.5.0
+
+nltk>=3.8.0
+transformers>=4.30.0
+torch>=2.0.0
+
+sentence-transformers>=2.2.0
+
+pandas>=2.0.0
+datasets>=2.12.0
+
+# Additional Spacy model (install separately)
+# Run: python -m spacy download en_core_web_sm
+
