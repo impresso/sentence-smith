@@ -62,11 +62,25 @@ The Jupyter notebook "test_process.ipynb" demonstrates how to evaluate embedding
 If you use these resources, please cite our paper:
 
 ```
-@article{li2025sentence,
-  title={Sentence Smith: Controllable Edits for Evaluating Text Embedding Models},
-  author={Li, Hongji and Michail, Andrianos and Gubelmann, Reto and Clematide, Simon and Opitz, Juri},
-  journal={EMNLP (to appear)},
-  year={2025}
+@inproceedings{li-etal-2025-sentence,
+    title = "Sentence Smith: Controllable Edits for Evaluating Text Embeddings",
+    author = "Li, Hongji  and
+      Michail, Andrianos  and
+      Gubelmann, Reto  and
+      Clematide, Simon  and
+      Opitz, Juri",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1343/",
+    pages = "26439--26456",
+    ISBN = "979-8-89176-332-6"
 }
 ```
 
