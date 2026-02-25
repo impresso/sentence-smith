@@ -1,5 +1,5 @@
 # [Sentence Smith: Controllable Edits for Evaluating Text Embeddings](https://arxiv.org/abs/2502.14734) - Datasets and starter code
-<img height="24" alt="emnlp2025 suzhou" src="https://github.com/user-attachments/assets/d3a426b1-a6f7-4ee7-9d42-47595b6f3f65" /> ![License: AGPLV3+](https://img.shields.io/badge/License-AGPLV3+-brightgreen.svg)
+<a href="https://2025.emnlp.org/"><img height="24" alt="emnlp2025 suzhou" src="https://github.com/user-attachments/assets/d3a426b1-a6f7-4ee7-9d42-47595b6f3f65" /></a> ![License: AGPLV3+](https://img.shields.io/badge/License-AGPLV3+-brightgreen.svg)
 
 ---
 
